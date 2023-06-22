@@ -1,0 +1,16 @@
+C:\Users\ingka\Documents\SoftwareQuality\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\ingka\Documents\SoftwareQuality\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\ingka\Documents\SoftwareQuality\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\ingka\Documents\SoftwareQuality\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\ingka\Documents\SoftwareQuality\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ingka\Documents\SoftwareQuality\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\ingka\Documents\SoftwareQuality\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\ingka\Documents\SoftwareQuality\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+D:\시스템\Downloads\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+D:\시스템\Downloads\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+D:\시스템\Downloads\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+D:\시스템\Downloads\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+D:\시스템\Downloads\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+D:\시스템\Downloads\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\시스템\Downloads\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+D:\시스템\Downloads\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
